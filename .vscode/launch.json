@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RobotPractice",
+            "request": "launch",
+            "mainClass": "RobotPractice",
+            "projectName": "robot_practice_cd77589b"
+        }
+    ]
+}
