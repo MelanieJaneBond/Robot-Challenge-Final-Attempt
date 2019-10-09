@@ -1,5 +1,5 @@
 # Robot-Challenge-Final-Attempt
-## Welcome to a JR DEV attempt at making a Robot that could navigate a web page!
+## Welcome to a JR DEV's attempt at making a Robot!
 
 All you have to do is clone down this repo and open the code (for me it opens in VSCode).
 When you see the little button above the "public static void main" that says "run", click it.
