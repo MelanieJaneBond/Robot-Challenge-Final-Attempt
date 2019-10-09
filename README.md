@@ -14,12 +14,9 @@ through the boxes by making key presses.
 
 ### Installing
 
-Clone down this repository:
-* git@github.com:MelanieJaneBond/Robot-Challenge-Final-Attempt.git
-Follow the Java Install instructions here:
-* https://www.youtube.com/watch?v=bIl48gbFiEc&t=34s
-Then, open the cloned files in your Visual Studio Code and click
-the "run" button that appears above the "public static void main"
+Clone down this repository: (git@github.com:MelanieJaneBond/Robot-Challenge-Final-Attempt.git)
+Follow the Java Install instructions here: (https://www.youtube.com/watch?v=bIl48gbFiEc&t=34s)
+Then, open the cloned files in your Visual Studio Code and click the "run" button that appears above the "public static void main"
 
 ## Authors
 
