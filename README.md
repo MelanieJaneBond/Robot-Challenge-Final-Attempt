@@ -26,6 +26,7 @@ Then, open the cloned files in your Visual Studio Code and click the "run" butto
 
 * YouTube programmers who filmed themselves making Robot classes in Java and also filmed the robots doing what they were programmed to.
 * Google for directing me to sources per the words I searched.
+* StackOverflow, GeeksForGeeks, Codota, Oracle.com
 * Grant, my friend from college, who encouraged me though he was far away.
 * My teachers at NSS for reminding me that I am a Jr, I am very capable but not expected to produce perfect products by myself just yet.
 * HPA for the opportunity to learn something new.
